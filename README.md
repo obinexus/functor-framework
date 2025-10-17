@@ -459,5 +459,26 @@ MIT License - See [LICENSE](LICENSE) for details
 - Website: [obinexus.org](https://obinexus.org)
 
 ---
-
+````
+functor-framework
+heterogeneous-functors
+homogeneous-functors
+dag-optimization
+phenotype-model
+phenomemory
+phenovalue
+set-theory
+uml-cardinality
+lossless-dag
+isomorphic-mapping
+obinexus
+hdis-integration
+o-log-n-complexity
+type-system
+rust-framework
+actor-observer-consumer
+verb-action-actor
+directed-acyclic-graph
+compile-time-verification
+```
 **"Architecture is the seed. The Functor Framework is how it grows."**
