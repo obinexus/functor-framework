@@ -1,7 +1,10 @@
 # Functor Framework
 
 **A Phenomenological Type System for Lossless DAG-Based Isomorphic Modeling**
-
+![PLP](https://img.shields.io/badge/PLP-Phenomic_Lensing-FFD700?style=for-the-badge)
+![95.4%](https://img.shields.io/badge/Coherence-95.4%25-00FF00?style=for-the-badge)
+![Neurodivergent-First](https://img.shields.io/badge/Design-Neurodivergent_First-FF69B4?style=for-the-badge)
+![OBINexus](https://img.shields.io/badge/Built_by-OBINexus-1E90FF?style=for-the-badge)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![HDIS Integration](https://img.shields.io/badge/HDIS-Integrated-green.svg)](https://github.com/obinexus/hdis)
 [![OBINexus](https://img.shields.io/badge/OBINexus-Computing-purple.svg)](https://github.com/obinexus)
